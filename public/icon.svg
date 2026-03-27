@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="108" fill="#1a1a2e"/>
+  <circle cx="256" cy="210" r="80" fill="#C8A45C"/>
+  <circle cx="230" cy="195" r="12" fill="#1a1a2e"/>
+  <circle cx="282" cy="195" r="12" fill="#1a1a2e"/>
+  <path d="M230 230c8 14 44 14 52 0" stroke="#1a1a2e" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <text x="256" y="370" text-anchor="middle" font-family="sans-serif" font-size="56" font-weight="600" fill="#C8A45C" letter-spacing="6">CARNOTE</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="400" fill="#C8A45C" opacity="0.5">.fun</text>
+</svg>
